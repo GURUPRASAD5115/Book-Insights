@@ -136,6 +136,13 @@ A full-stack web application that uses AI and Retrieval-Augmented Generation (RA
 └── README.md                         # This file
 ```
 
+## Screen Shots 
+<img width="1920" height="1020" alt="Screenshot 2026-04-18 172459" src="https://github.com/user-attachments/assets/9e1ec095-bce3-417a-8cbf-fbeb96ee3efd" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-18 173423" src="https://github.com/user-attachments/assets/b7b00060-3343-4c51-b3a0-c1e3e5651a58" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-18 180252" src="https://github.com/user-attachments/assets/6ac47c0e-b555-4a08-996c-aa7594668147" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-18 180213" src="https://github.com/user-attachments/assets/33ef7894-c89f-415a-bfd6-3db9fe578382" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-18 173753" src="https://github.com/user-attachments/assets/512e1be9-acbe-4c50-a634-764b34639800" />
+
 ## Quick Start
 
 ### Prerequisites
@@ -449,3 +456,5 @@ For issues or questions:
 - [ChromaDB](https://www.trychroma.com/)
 - [shadcn/ui](https://ui.shadcn.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
+
+

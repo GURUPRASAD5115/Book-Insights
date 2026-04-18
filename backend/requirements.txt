@@ -1,0 +1,45 @@
+# -----------------------------
+# CORE DJANGO
+# -----------------------------
+Django==4.2.11
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+
+# -----------------------------
+# DATABASE
+# -----------------------------
+psycopg2-binary==2.9.11
+mysqlclient==2.2.0
+
+# -----------------------------
+# AI / LLM
+# -----------------------------
+google-generativeai==0.8.6
+openai==1.3.0
+
+# -----------------------------
+# EMBEDDINGS (VERY IMPORTANT)
+# -----------------------------
+sentence-transformers==2.2.2
+transformers==4.30.2
+huggingface_hub==0.14.1
+torch==2.0.1
+torchvision==0.15.2
+
+# -----------------------------
+# VECTOR / OPTIONAL
+# -----------------------------
+chromadb==0.4.24
+
+# -----------------------------
+# UTILITIES
+# -----------------------------
+numpy==1.24.3
+requests==2.31.0
+python-dotenv==1.0.0
+
+# -----------------------------
+# OPTIONAL (recommended)
+# -----------------------------
+scikit-learn==1.3.2
+tqdm==4.66.4
